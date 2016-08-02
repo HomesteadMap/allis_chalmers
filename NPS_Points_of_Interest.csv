@@ -1,4 +1,4 @@
-FID,Shape,name,unit_code,type,class,lat,long,image_url, description
+FID,Shape,name,unit_code,type,class,lat,long,image_url,description
 0,Point,Freeman Grave Site,home,Cemetery / Graveyard,cemetery,40.2864,-96.8271,,
 2,Point,Historic Farm Demonstration Area,home,Interpretive Exhibit,information,40.2909,-96.8335,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/6100A9A9-B904-8C68-6EB87B200404C138/6100A9A9-B904-8C68-6EB87B200404C138-small.JPG,
 3,Point,Historic Farm Demonstration Area,home,Interpretive Exhibit,information,40.2862,-96.8266,, 
