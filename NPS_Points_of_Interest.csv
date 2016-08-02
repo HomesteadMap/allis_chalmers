@@ -1,19 +1,19 @@
-FID,Shape,name,unit_code,type,class,lat,long,image_url
-0,Point,Freeman Grave Site,home,Cemetery / Graveyard,cemetery,40.2864,-96.8271, 
-2,Point,Historic Farm Demonstration Area,home,Interpretive Exhibit,information,40.2909,-96.8335,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/6100A9A9-B904-8C68-6EB87B200404C138/6100A9A9-B904-8C68-6EB87B200404C138-small.JPG
-3,Point,Historic Farm Demonstration Area,home,Interpretive Exhibit,information,40.2862,-96.8266, 
-4,Point,Historic Fencing Demonstration,home,Interpretive Exhibit,information,40.2852,-96.827, 
-5,Point,Historic Fencing Demonstration,home,Interpretive Exhibit,information,40.2898,-96.8319, 
-6,Point,Historic Osage Orange Hedgerow,home,Historic Site,site,40.2847,-96.8273, 
-7,Point,National Homesteading Museum,home,Museum,museum,40.2856,-96.8268,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/65C5071A-155D-4519-3E3F6265AE0F363A/65C5071A-155D-4519-3E3F6265AE0F363A-small.jpg
-8,Point,Native Plant Exhibit,home,Interpretive Exhibit,information,40.2906,-96.8341,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/5C6DE8A3-06C1-94AC-211CA3D91363B8E2/5C6DE8A3-06C1-94AC-211CA3D91363B8E2-small.jpg
-11,Point,Prairie Viewing Platform,home,Viewpoint,view,40.2887,-96.8334,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/698CB878-155D-4519-3EF44DEC5E1BF888/698CB878-155D-4519-3EF44DEC5E1BF888-small.jpg 
-12,Point,Quilt Discovery Walk,home,Interpretive Exhibit,information,40.2857,-96.8266, 
-13,Point,Quilt Discovery Walk,home,Interpretive Exhibit,information,40.2912,-96.8357, 
-16,Point,Visitor Center,home,Visitor Center,visitor center,40.2857,-96.8266,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/65CB4060-155D-4519-3E976E67C1850269/65CB4060-155D-4519-3E976E67C1850269-small.jpg
-17,Point,Visitor Center,home,Visitor Center,visitor center,40.2912,-96.8357,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/65D1FBE9-155D-4519-3EB4956C81280069/65D1FBE9-155D-4519-3EB4956C81280069-small.jpg
-34,Point,Historic 1867 Palmer-Epard Cabin,home,Historic Site,site,40.2848,-96.8269,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/FB1D6468-1DD8-B71B-0BF544511D3CED3B/FB1D6468-1DD8-B71B-0BF544511D3CED3B-small.jpg 
-35,Point,DAR Monument,home,Monument,monument,40.2889,-96.8339, 
-36,Point,Giant Cottonwood,home,Tree,tree,40.2863,-96.8378,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/D1848C58-9291-7724-072A2A41569F8AB3/D1848C58-9291-7724-072A2A41569F8AB3-small.JPG
-37,Point,Historic Farm Implement Display,home,Interpretive Exhibit,information,40.2848,-96.8267, 
-38,Point,Historic Farm Implement Display,home,Interpretive Exhibit,information,40.291,-96.8357, 
+FID,Shape,name,unit_code,type,class,lat,long,image_url, description
+0,Point,Freeman Grave Site,home,Cemetery / Graveyard,cemetery,40.2864,-96.8271,,
+2,Point,Historic Farm Demonstration Area,home,Interpretive Exhibit,information,40.2909,-96.8335,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/6100A9A9-B904-8C68-6EB87B200404C138/6100A9A9-B904-8C68-6EB87B200404C138-small.JPG,
+3,Point,Historic Farm Demonstration Area,home,Interpretive Exhibit,information,40.2862,-96.8266,, 
+4,Point,Historic Fencing Demonstration,home,Interpretive Exhibit,information,40.2852,-96.827,,
+5,Point,Historic Fencing Demonstration,home,Interpretive Exhibit,information,40.2898,-96.8319,, 
+6,Point,Historic Osage Orange Hedgerow,home,Historic Site,site,40.2847,-96.8273,, 
+7,Point,National Homesteading Museum,home,Museum,museum,40.2856,-96.8268,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/65C5071A-155D-4519-3E3F6265AE0F363A/65C5071A-155D-4519-3E3F6265AE0F363A-small.jpg,
+8,Point,Native Plant Exhibit,home,Interpretive Exhibit,information,40.2906,-96.8341,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/5C6DE8A3-06C1-94AC-211CA3D91363B8E2/5C6DE8A3-06C1-94AC-211CA3D91363B8E2-small.jpg,
+11,Point,Prairie Viewing Platform,home,Viewpoint,view,40.2887,-96.8334,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/698CB878-155D-4519-3EF44DEC5E1BF888/698CB878-155D-4519-3EF44DEC5E1BF888-small.jpg, 
+12,Point,Quilt Discovery Walk,home,Interpretive Exhibit,information,40.2857,-96.8266,, 
+13,Point,Quilt Discovery Walk,home,Interpretive Exhibit,information,40.2912,-96.8357,, 
+16,Point,Visitor Center,home,Visitor Center,visitor center,40.2857,-96.8266,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/65CB4060-155D-4519-3E976E67C1850269/65CB4060-155D-4519-3E976E67C1850269-small.jpg,
+17,Point,Visitor Center,home,Visitor Center,visitor center,40.2912,-96.8357,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/65D1FBE9-155D-4519-3EB4956C81280069/65D1FBE9-155D-4519-3EB4956C81280069-small.jpg,
+34,Point,Historic 1867 Palmer-Epard Cabin,home,Historic Site,site,40.2848,-96.8269,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/FB1D6468-1DD8-B71B-0BF544511D3CED3B/FB1D6468-1DD8-B71B-0BF544511D3CED3B-small.jpg, 
+35,Point,DAR Monument,home,Monument,monument,40.2889,-96.8339,, 
+36,Point,Giant Cottonwood,home,Tree,tree,40.2863,-96.8378,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/D1848C58-9291-7724-072A2A41569F8AB3/D1848C58-9291-7724-072A2A41569F8AB3-small.JPG, I giant tree.
+37,Point,Historic Farm Implement Display,home,Interpretive Exhibit,information,40.2848,-96.8267,, 
+38,Point,Historic Farm Implement Display,home,Interpretive Exhibit,information,40.291,-96.8357,, 
