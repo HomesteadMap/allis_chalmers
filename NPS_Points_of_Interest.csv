@@ -14,6 +14,6 @@ FID,Shape,name,unit_code,type,class,lat,long,image_url,description
 17,Point,Visitor Center,home,Visitor Center,visitor center,40.2912,-96.8357,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/65D1FBE9-155D-4519-3EB4956C81280069/65D1FBE9-155D-4519-3EB4956C81280069-small.jpg,
 34,Point,Historic 1867 Palmer-Epard Cabin,home,Historic Site,site,40.2848,-96.8269,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/FB1D6468-1DD8-B71B-0BF544511D3CED3B/FB1D6468-1DD8-B71B-0BF544511D3CED3B-small.jpg, 
 35,Point,DAR Monument,home,Monument,monument,40.2889,-96.8339,, 
-36,Point,Giant Cottonwood,home,Tree,tree,40.2863,-96.8378,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/D1848C58-9291-7724-072A2A41569F8AB3/D1848C58-9291-7724-072A2A41569F8AB3-small.JPG, I giant tree.
+36,Point,Giant Cottonwood,home,Tree,tree,40.2863,-96.8378,https://www.nps.gov/common/uploads/photogallery/mwr/park/home/D1848C58-9291-7724-072A2A41569F8AB3/D1848C58-9291-7724-072A2A41569F8AB3-small.JPG,A giant tree.
 37,Point,Historic Farm Implement Display,home,Interpretive Exhibit,information,40.2848,-96.8267,, 
 38,Point,Historic Farm Implement Display,home,Interpretive Exhibit,information,40.291,-96.8357,, 
